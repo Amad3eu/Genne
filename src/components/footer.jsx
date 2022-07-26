@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import links from '../constants/page-links';
-import logo from '../images/Genne.png';
+import logo from '../images/LogoName.png';
 import discord from '../images/Discord-Logo.png';
 
 const Footer = () => (

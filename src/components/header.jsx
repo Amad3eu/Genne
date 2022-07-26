@@ -6,7 +6,7 @@ import axios from 'axios';
 import { Link } from 'gatsby';
 import { act } from 'react-dom/test-utils';
 import links from '../constants/page-links';
-import logo from '../images/Genne.png';
+import logo from '../images/Logo.png';
 
 const Header = (props) => {
   const { heading } = props;
