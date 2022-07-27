@@ -335,7 +335,7 @@ exports[`Skills Preview renders correctly 1`] = `
     <img
       alt="unity"
       className="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10"
-      src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
     />
   </a>
 </div>
@@ -404,6 +404,11 @@ exports[`Social Preview renders correctly 1`] = `
   <DisplaySocial
     base="https://www.behance.net"
     icon="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
+    username=""
+  />
+  <DisplaySocial
+    base="https://hashnode.com"
+    icon="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
     username=""
   />
   <DisplaySocial

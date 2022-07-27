@@ -242,7 +242,7 @@ const IndexPage = () => {
     range.selectNode(document.getElementById('markdown-content'));
     window.getSelection().removeAllRanges(); // clear current selection
     window.getSelection().addRange(range); // to select text
-    document.execCommand('copy');
+    document.showUI('copy');
     window.getSelection().removeAllRanges();
 
     setCopyMarkdownButton();
