@@ -16,7 +16,7 @@ exports[`Header renders correctly 1`] = `
         src="test-file-stub"
       />
       <div>
-        heading
+        Genne
       </div>
     </h1>
   </mockConstructor>

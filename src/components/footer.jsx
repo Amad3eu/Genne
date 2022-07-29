@@ -12,8 +12,7 @@ const Footer = () => (
           <div className="flex sm:flex-col items-start mb-3 sm:mb-0">
             <img src={logo} className="hidden sm:block h-24" alt="github profile markdown generator logo" />
             <div className="mr-2 sm:mr-0">
-              GitHub Profile <img src={logo} className="inline sm:hidden h-12" alt="github profile markdown generator logo" />
-              <span className="block sm:inline">README Generator</span>
+              <img src={logo} className="inline sm:hidden h-12" alt="github profile markdown generator logo" />
             </div>
           </div>
         </h1>
